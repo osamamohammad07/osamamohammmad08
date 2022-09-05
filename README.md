@@ -1,5 +1,6 @@
 # osamamohammmad08
 Data Modelling
+<br>
 • Built a classification model to classify whether the income exceeds $50K/yr
 • Performed data cleaning to handle missing values, and ensure datatype consistency
 • Conducted exploratory data analysis
@@ -11,6 +12,9 @@ Data Modelling
 • Compared the performance of different models and selected the best model along with the best model parameters
 • Tried hold out method and cross validation method for training
 • Perfomed variable selection procedure (forward, backward) to select the best predictors 
+<br>
+<br>
+<br>
 #Import the dataset
 import pandas as pd
 from google.colab import files
